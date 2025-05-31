@@ -4,18 +4,12 @@ HyperCrusher adalah game hyper-casual bergaya endless runner yang mengajak pemai
 
 🕹️ Fitur Utama:
 Gerakan Swipe atau Keyboard: Pemain dapat berpindah jalur untuk menghindari rintangan atau mengambil bonus.
-
-Tantangan Dinamis: Pemain dihadapkan pada penghalang dengan angka yang menantang dan harus memilih jalur secara cepat.
-
+Tantangan Dinamis: Pemain dihadapkan pada penghalang dengan angka yang menantang dan harus memilih jalur secara cepat. 
 Visual Cerah & Minimalis: Desain grafis sederhana namun menarik, cocok untuk segala usia.
-
 Animasi Karakter: Karakter memiliki animasi seperti idle, run, kick, dan victory yang memperkaya pengalaman bermain.
 
 🔄 Mekanik Game:
-Karakter terus bergerak maju secara otomatis.
-
-Pemain memilih jalur yang akan dilewati dengan menggeser ke kiri atau kanan.
-
-Jika karakter bertabrakan dengan obstacle bernilai lebih tinggi dari kekuatannya, game over terjadi.
-
-Power-up dapat meningkatkan kekuatan karakter untuk menabrak obstacle yang lebih besar.
+- Karakter terus bergerak maju secara otomatis.
+- Pemain memilih jalur yang akan dilewati dengan menggeser ke kiri atau kanan.
+- Jika karakter bertabrakan dengan obstacle bernilai lebih tinggi dari kekuatannya, game over terjadi.
+-Power-up dapat meningkatkan kekuatan karakter untuk menabrak obstacle yang lebih besar.
